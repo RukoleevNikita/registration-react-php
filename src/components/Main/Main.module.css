@@ -1,0 +1,8 @@
+.blockForm {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+.blockForm input {
+    margin: 10px;
+}
